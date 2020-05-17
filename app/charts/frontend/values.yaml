@@ -1,0 +1,6 @@
+# images
+images:
+    frontend: docker.finogeeks.club/canary/swan-mobile-client:1.2019122.2
+
+replicas:
+    frontend: 1
