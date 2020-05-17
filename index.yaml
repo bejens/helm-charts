@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   app:
   - apiVersion: v1
-    created: "2020-05-18T03:46:20.917439+08:00"
+    created: "2020-05-18T03:55:56.434749+08:00"
     description: app test
-    digest: a4057b00a1083fb6baa68a01ed24666aac27fc0628e11367a4af9bdb5ac06696
+    digest: 36d6897dd4ddbcdbda1f8fe4b636b22072109e7c9516613f6629a408ea467c6e
     name: app
     urls:
     - https://bejens.github.io/helm-charts/app-1.0.0.tgz
     version: 1.0.0
-generated: "2020-05-18T03:46:20.916655+08:00"
+generated: "2020-05-18T03:55:56.433032+08:00"
