@@ -5,7 +5,7 @@ metadata:
   labels:
     app: backend-app
 spec:
-  replicas: {{ .Values.replicas.backend | quote }}
+  replicas: {{ .Values.replicas.backend }}
   template:
     metadata:
       labels:
