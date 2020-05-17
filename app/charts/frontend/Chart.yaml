@@ -1,4 +1,0 @@
-apiVersion: v1
-description: "frontend test"
-name: "frontend"
-version: 1.0.0
