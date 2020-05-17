@@ -1,6 +1,6 @@
 # images
 images:
-    backend: docker.finogeeks.club/swan/swan-workorder:5.0.5
+    backend: backend:1.0.0 
 
 replicas:
     backend: 1
