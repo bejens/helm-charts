@@ -18,7 +18,7 @@ spec:
       - name: backend
         envFrom:
         - configMapRef:
-            name: backend-app-config
+            name: backend-config
         image: {{ .Values.images.backend | quote }}
         imagePullPolicy: IfNotPresent
         livenessProbe:
